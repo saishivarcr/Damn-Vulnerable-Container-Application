@@ -1,0 +1,13 @@
+# Compiled class file
+*.class
+
+# intellij
+*.iml
+.idea/
+
+# src
+DemoApp/src/
+
+# out
+DemoApp/out/
+
